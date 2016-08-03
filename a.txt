@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 22C1-BFD9
+
+ Directory of C:\Testing-GIT
+
+08/03/2016  03:24 AM    <DIR>          .
+08/03/2016  03:24 AM    <DIR>          ..
+08/03/2016  03:24 AM                 0 a.txt
+08/03/2016  03:23 AM    <DIR>          Testing-Git
+               1 File(s)              0 bytes
+               3 Dir(s)   2,872,872,960 bytes free
